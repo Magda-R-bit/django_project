@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-=y9re(i4q6+7-bl2!+pj6w9rn814gr$(yqye8##)b#x2al#_he
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-magdarbit-djangoproject-zl2j1g5cprr.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = ['8000-magdarbit-djangoproject-zl2j1g5cprr.ws.codeinstitute-ide.net', 'http://8000-magdarbit-djangoproject-zl2j1g5cprr.ws.codeinstitute-ide.net']
 
 
 # Application definition
